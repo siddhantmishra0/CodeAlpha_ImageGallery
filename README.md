@@ -17,7 +17,7 @@ Check out the live demo [here](https://siddhantmishra0.github.io/CodeAlpha_Image
 
 1. Clone the repository:
 ```bash
-git clone https:https://github.com/kavyaballa1020/CodeAlpha_ImageGallery.git
+git clone https://github.com/siddhantmishra0/CodeAlpha_ImageGallery.git
   
 ```
 2. Open index.html in your browser.
